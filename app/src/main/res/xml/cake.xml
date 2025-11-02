@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cakes xmlns:android="http://schemas.android.com/apk/res/android">
+    <cake>
+        <day>1</day>
+        <name>Cake au chocolat</name>
+        <description>Fondant et moelleux pour les amateurs de chocolat.</description>
+        <image>https://plus.unsplash.com/premium_photo-1715015439764-1e8d37d5c6c9?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1976</image>
+    </cake>
+    <cake>
+        <day>2</day>
+        <name>Tarte aux pommes</name>
+        <description>Classique et légèrement acidulée.</description>
+        <image>https://images.unsplash.com/photo-1562007908-17c67e878c88?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=687</image>
+    </cake>
+    <cake>
+        <day>3</day>
+        <name>Brownie</name>
+        <description>Dense, chocolaté et parfait pour le goûter.</description>
+        <image>https://plus.unsplash.com/premium_photo-1663840175543-6eb0f4a25401?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=687</image>
+    </cake>
+    <cake>
+        <day>4</day>
+        <name>Cheesecake</name>
+        <description>Crémeux avec un biscuit croustillant.</description>
+        <image>https://plus.unsplash.com/premium_photo-1722686461601-b2a018a4213b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=955>https://images.unsplash.com/photo-1599785209707-4a5c8b5dc345</image>
+    </cake>
+    <cake>
+        <day>5</day>
+        <name>Cupcake vanille</name>
+        <description>Petit gâteau individuel décoré de glaçage.</description>
+        <image>https://plus.unsplash.com/premium_photo-1669931367700-e4e1e0387d40?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=734</image>
+    </cake>
+    <cake>
+        <day>6</day>
+        <name>Cake marbré</name>
+        <description>Mélange chocolat-vanille pour un visuel gourmand.</description>
+        <image>https://images.unsplash.com/photo-1606702670929-51ef9685a656?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=684</image>
+    </cake>
+    <cake>
+        <day>7</day>
+        <name>Tarte aux fraises</name>
+        <description>Fraîche et sucrée avec une pâte croustillante.</description>
+        <image>https://plus.unsplash.com/premium_photo-1716892887684-2d722f73a206?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=688</image>
+    </cake>
+    <cake>
+        <day>8</day>
+        <name>Muffin aux myrtilles</name>
+        <description>Moelleux et fruité, idéal au petit-déjeuner.</description>
+        <image>https://images.unsplash.com/photo-1722251172903-cc8774501df7?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=764</image>
+    </cake>
+    <cake>
+        <day>9</day>
+        <name>Cake au citron</name>
+        <description>Acidulé et léger pour rafraîchir le palais.</description>
+        <image>https://plus.unsplash.com/premium_photo-1716918178946-5922b4e8645d?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=687</image>
+    </cake>
+    <cake>
+        <day>10</day>
+        <name>Fondant au chocolat</name>
+        <description>Cœur coulant irrésistible.</description>
+        <image>https://images.unsplash.com/photo-1617305855058-336d24456869?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=880</image>
+    </cake>
+    <cake>
+        <day>11</day>
+        <name>Tarte au chocolat</name>
+        <description>Riche et gourmande pour les chocophiles.</description>
+        <image>https://images.unsplash.com/photo-1609618299278-cc53dc850f98?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1025</image>
+    </cake>
+    <cake>
+        <day>12</day>
+        <name>Cookie géant</name>
+        <description>Moelleux à l’intérieur et croustillant à l’extérieur.</description>
+        <image>https://images.unsplash.com/photo-1719384980283-b4388038ce9b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=736</image>
+    </cake>
+    <cake>
+        <day>13</day>
+        <name>Cake aux noix</name>
+        <description>Légèrement croquant et savoureux.</description>
+        <image>https://plus.unsplash.com/premium_photo-1667028670279-964d0e9ca980?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=687</image>
+    </cake>
+    <cake>
+        <day>14</day>
+        <name>Brownie noix de pécan</name>
+        <description>Chocolat et noix pour un combo parfait.</description>
+        <image>https://images.unsplash.com/photo-1723236280051-3a32e81f6c09?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=841</image>
+    </cake>
+    <cake>
+        <day>15</day>
+        <name>Cupcake chocolat</name>
+        <description>Mini gâteau individuel, gourmand et moelleux.</description>
+        <image>https://images.unsplash.com/photo-1610851468652-dd77ce58a916?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=687</image>
+    </cake>
+    <cake>
+        <day>16</day>
+        <name>Tarte citron meringuée</name>
+        <description>Acidulé et sucré avec une meringue légère.</description>
+        <image>https://images.unsplash.com/photo-1519915028121-7d3463d20b13?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=687</image>
+    </cake>
+    <cake>
+        <day>17</day>
+        <name>Cake à l’orange</name>
+        <description>Fruité et parfumé.</description>
+        <image>https://images.unsplash.com/photo-1702745100328-fe7a353d11e9?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=687</image>
+    </cake>
+    <cake>
+        <day>18</day>
+        <name>Muffin chocolat</name>
+        <description>Idéal pour le goûter rapide.</description>
+        <image>https://images.unsplash.com/photo-1655479481083-a72ae6fddf4c?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1170</image>
+    </cake>
+    <cake>
+        <day>19</day>
+        <name>Gâteau renversé à l’ananas</name>
+        <description>Fruité, caramélisé et esthétique.</description>
+        <image>https://plus.unsplash.com/premium_photo-1664392154731-9921da9c5b41?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=766</image>
+    </cake>
+    <cake>
+        <day>20</day>
+        <name>Tarte aux framboises</name>
+        <description>Fraîche et légèrement acidulée.</description>
+        <image>https://images.unsplash.com/photo-1668609892638-2bee9a4d224b?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=714</image>
+    </cake>
+    <cake>
+        <day>21</day>
+        <name>Cake marbré chocolat-vanille</name>
+        <description>Délicieux mélange de deux saveurs classiques.</description>
+        <image>https://plus.unsplash.com/premium_photo-1736895377231-a5c991f8be7f?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=687</image>
+    </cake>
+    <cake>
+        <day>22</day>
+        <name>Fondant au caramel</name>
+        <description>Sucré et fondant avec une note de caramel.</description>
+        <image>https://images.unsplash.com/photo-1511911063855-2bf39afa5b2e?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=687</image>
+    </cake>
+    <cake>
+        <day>23</day>
+        <name>Brownie chocolat blanc</name>
+        <description>Douceur et moelleux garantis.</description>
+        <image>https://images.unsplash.com/photo-1541779972238-2c60cd11ffc5?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1170</image>
+    </cake>
+    <cake>
+        <day>24</day>
+        <name>Cupcake fruits rouges</name>
+        <description>Coloré et fruité pour égayer la journée.</description>
+        <image>https://media.istockphoto.com/id/1369757837/photo/freshly-prepared-raspberry-cupcakes-on-kitchen-counter.jpg?s=2048x2048&amp;w=is&amp;k=20&amp;c=APgHXehrL8Mc-rC7V0aUGIyOGQCSGUoWsnh4BJ-HX3k=</image>
+    </cake>
+    <cake>
+        <day>25</day>
+        <name>Cake à la banane</name>
+        <description>Parfait pour utiliser les bananes mûres.</description>
+        <image>https://images.unsplash.com/photo-1722550376042-1edb9ad65b1a?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1170</image>
+    </cake>
+    <cake>
+        <day>26</day>
+        <name>Tarte chocolat et noix</name>
+        <description>Croquant et chocolaté à la fois.</description>
+        <image>https://plus.unsplash.com/premium_photo-1715793630815-ec18e05ade94?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1170</image>
+    </cake>
+
+    <cake>
+        <day>27</day>
+        <name>Muffin pépites de chocolat</name>
+        <description>Mini gourmandise pour petits et grands.</description>
+        <image>https://images.unsplash.com/photo-1637861004877-98aebeb0ecfc?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=671</image>
+    </cake>
+    <cake>
+        <day>28</day>
+        <name>Gâteau aux amandes</name>
+        <description>Léger et parfumé aux amandes.</description>
+        <image>https://images.unsplash.com/photo-1574344069030-b2926f1b3d06?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=1333</image>
+    </cake>
+    <cake>
+        <day>29</day>
+        <name>Cake pistache</name>
+        <description>Original et savoureux.</description>
+        <image>https://plus.unsplash.com/premium_photo-1670191893912-c16381506784?ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;q=80&amp;w=688</image>
+    </cake>
+    <cake>
+        <day>30</day>
+        <name>Tarte tropézienne</name>
+        <description>Crémeuse et sucrée, finale parfaite du mois.</description>
+        <image>https://www.foodandwine.com/thmb/FWtWnvy-XEX9bTIysp-mC6035wY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Tarte-Tropezienne-FT-MAG-RECIPE-0824-6b5d5445af79406ab390c7a9d2eaa9ad.jpg</image>
+    </cake>
+</cakes>
